@@ -1,0 +1,15 @@
+C:\Users\david\Documents\Programas_VisualStudio2019\DataReader\DataReader\bin\Debug\netcoreapp3.1\DataReader.exe
+C:\Users\david\Documents\Programas_VisualStudio2019\DataReader\DataReader\obj\Debug\netcoreapp3.1\DataReader.csprojAssemblyReference.cache
+C:\Users\david\Documents\Programas_VisualStudio2019\DataReader\DataReader\obj\Debug\netcoreapp3.1\DataReader.AssemblyInfoInputs.cache
+C:\Users\david\Documents\Programas_VisualStudio2019\DataReader\DataReader\obj\Debug\netcoreapp3.1\DataReader.AssemblyInfo.cs
+C:\Users\david\Documents\Programas_VisualStudio2019\DataReader\DataReader\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\david\Documents\Programas_VisualStudio2019\DataReader\DataReader\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\david\Documents\Programas_VisualStudio2019\DataReader\DataReader\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\david\Documents\Programas_VisualStudio2019\DataReader\DataReader\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\david\Documents\Programas_VisualStudio2019\DataReader\DataReader\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\david\Documents\Programas_VisualStudio2019\DataReader\DataReader\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\david\Documents\Programas_VisualStudio2019\DataReader\DataReader\obj\Debug\netcoreapp3.1\DataReader.csproj.CopyComplete
+C:\Users\david\Documents\Programas_VisualStudio2019\DataReader\DataReader\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\david\Documents\Programas_VisualStudio2019\DataReader\DataReader\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\david\Documents\Programas_VisualStudio2019\DataReader\DataReader\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\david\Documents\Programas_VisualStudio2019\DataReader\DataReader\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
